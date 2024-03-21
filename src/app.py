@@ -19,7 +19,7 @@ import chainlit as cl
 
 from tools.sql import run_query_tool, list_tables, describe_tables_tool
 
-load_dotenv()
+# load_dotenv()
 
 
 # get list of tables
