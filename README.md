@@ -6,7 +6,7 @@ BrainDataDex can be described as a versatile platform that allows users to query
 - [@webobite](https://github.com/webobite)
 
 ## Feature planned
- Check [Project dashboard](https://github.com/users/webobite/projects/4/views/1)
+ Check issue list
  
 ## Installation
 
