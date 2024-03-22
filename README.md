@@ -5,6 +5,16 @@ BrainDataDex can be described as a versatile platform that allows users to query
 
 - [@webobite](https://github.com/webobite)
 
+## Feature planned
+ - [x] Implement with Langchain and OpenChat AI model for SQL generation and get result with pain English text
+ - [x] Frontend for the Chat conversation
+ - [ ] Implement feedback mechanism for the bot to understand and learn from the input provided
+ - [ ] Training / Fixing the model to build to 60% accuracy minimum for first go to release
+ - [ ] User Authentication (mostly an simple Oauth) and chat session management 
+ - [ ] Get the User option to download data / summary from the chat conversation
+ - [ ] Generate /option to download the charts from the query that is returned from the LLM
+ - [ ] TBD
+
 ## Installation
 
 ```
