@@ -13,6 +13,7 @@ BrainDataDex can be described as a versatile platform that allows users to query
 ```
 STEPS TO BE ADDED SOONER
 ```
+<hr/>
 
 ## Demo
 
