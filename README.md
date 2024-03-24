@@ -28,11 +28,6 @@ Screenshot 2:
 
 If you have any feedback and support, please reach out to us at singhsubham510@gmail.com
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
 ## FAQ (if any)
 
 #### Question 1
@@ -40,6 +35,11 @@ If you have any feedback and support, please reach out to us at singhsubham510@g
 Answer 1
 
 #### Question 2
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
 
 Answer 2
 
